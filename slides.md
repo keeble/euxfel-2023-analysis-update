@@ -2,7 +2,7 @@
 marp: true
 theme: rose-pine
 size: 16:9
-backgroundImage: url('../assets/dls_blue.png')
+backgroundImage: url('assets/dls_blue.png')
 style: |
   h1 {
     font-size: 4rem;
@@ -24,7 +24,7 @@ style: |
   }
 ---
 # uf TS/PDF processing / analysis update
-![bg opacity](../assets/gradient.jpeg)
+![bg opacity](assets/gradient.jpeg)
 Dean Keeble
 January 2024
 
@@ -52,12 +52,12 @@ for channels 6,7,8,9
 
 ---
 ### Efficacy of OGT-IPM
-![bg right h:500](../assets/ogt_imp_1.png)
+![bg right h:500](assets/ogt_imp_1.png)
 - For runs with no attenuator it appears to be quite linear
 
 ---
 ### Efficacy of OGT-IPM at 100% flux
-![](../assets/ogt_imp_2.png)
+![](assets/ogt_imp_2.png)
 
 ---
 <style scoped>section { justify-content: start; }</style>
@@ -65,8 +65,8 @@ for channels 6,7,8,9
 ### Comparison of 100% and 10% flux 
 
 
-![bg  h:450](../assets/ogt_imp_1.png)
-![bg  h:450](../assets/ogt_imp_3.png)
+![bg  h:450](assets/ogt_imp_1.png)
+![bg  h:450](assets/ogt_imp_3.png)
 
 
 ---
@@ -99,16 +99,16 @@ for channels 6,7,8,9
 - Dean does not currently understand this
 
 ---
-![bg h:880](../assets/jf4_shadowing.png)
+![bg h:880](assets/jf4_shadowing.png)
 
 ---
-![bg](../assets/IC1_no_arrow.png)
+![bg](assets/IC1_no_arrow.png)
 
 ---
-![bg](../assets/IC1_arrow.png)
+![bg](assets/IC1_arrow.png)
 
 ---
-![bg](../assets/IC1_closeup.png)
+![bg](assets/IC1_closeup.png)
 
 ---
 
@@ -129,25 +129,25 @@ for channels 6,7,8,9
 ---
 <style scoped>section { justify-content: start; }</style>
 ## `ALS_LAMBDA`
-![bg w:1500](../assets/als_lambda.png)
+![bg w:1500](assets/als_lambda.png)
 
 ---
 <style scoped>section { justify-content: start; }</style>
 ## `ALS_LAMBDA`
-![bg w:1500](../assets/als_lambda_2.png)
+![bg w:1500](assets/als_lambda_2.png)
 
 ---
 <style scoped>section { justify-content: start; }</style>
 ## `ALS_P`
-![bg w:1500](../assets/als_p.png)
+![bg w:1500](assets/als_p.png)
 
 ---
 <style scoped>section { justify-content: start; }</style>
 ## `ALS_P`
-![bg w:1500](../assets/als_p_2.png)
+![bg w:1500](assets/als_p_2.png)
 
 ---
-![bg](../assets/gaps.png)
+![bg](assets/gaps.png)
 
 
 ---
@@ -170,5 +170,5 @@ for channels 6,7,8,9
 
 > C1L3 - 50um PP + 50um Si --  10% transmission - try to see if we have TDS  
 
-![w:2000](../assets/run_225.png)
+![w:2000](assets/run_225.png)
 
