@@ -147,7 +147,10 @@ for channels 6,7,8,9
 ![bg w:1500](../assets/als_p_2.png)
 
 ---
+![bg](../assets/gaps.png)
 
+
+---
 
 
 
