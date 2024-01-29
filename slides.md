@@ -151,9 +151,6 @@ for channels 6,7,8,9
 
 
 ---
-
-
-
 ## Other things that could potentially be worth thinking about
 
 - Adding JF5 to the process
